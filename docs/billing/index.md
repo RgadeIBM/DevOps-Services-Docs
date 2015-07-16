@@ -1,6 +1,6 @@
 #Managing your account
 
-Last modified: 9 July 2015
+Last modified: July 16th 2015
 
 Without logging into IBM® Bluemix™ DevOps Services, you can explore existing projects or view the documentation. After you register with DevOps Services by using your IBM ID, you can access all of the features to develop, track, plan, and deploy software in one place.
 
